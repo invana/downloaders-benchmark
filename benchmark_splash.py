@@ -8,7 +8,7 @@ def run_splash_benchmark(url):
     messages = []
 
     messages.append("===================================")
-    messages.append("Splash benchmark for url {}".format(url))
+    messages.append("Splash benchmark for url {} with Splash driver".format(url))
     url = "{}?url={}&html=1".format(SPLASH_URL, url)
     NUM_OF_ITERATIONS = 10
     iteration_results = []

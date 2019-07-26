@@ -1,0 +1,180 @@
+===================================
+Splash benchmark for url https://www.bing.com/search?q=artificial+intelligence with Splash driver
+iteration :0 		837.239 ms
+iteration :1 		1075.051 ms
+iteration :2 		754.737 ms
+iteration :3 		892.450 ms
+iteration :4 		626.624 ms
+iteration :5 		828.047 ms
+iteration :6 		902.331 ms
+iteration :7 		830.880 ms
+iteration :8 		731.116 ms
+iteration :9 		892.980 ms
+Total time take is 8371.455 ms
+Average time taken is 837.145 ms
+===================================
+===================================
+Selenium benchmark for url https://www.bing.com/search?q=artificial+intelligence with driver <selenium.webdriver.chrome.webdriver.WebDriver (session="85a281bf521fe9d274d8caa45c2916e2")>
+iteration :0 		1138.014 ms
+iteration :1 		1145.830 ms
+iteration :2 		1159.499 ms
+iteration :3 		723.158 ms
+iteration :4 		695.865 ms
+iteration :5 		808.310 ms
+iteration :6 		694.774 ms
+iteration :7 		831.710 ms
+iteration :8 		717.567 ms
+iteration :9 		656.203 ms
+Total time take is 8570.930 ms
+Average time taken is 857.093 ms
+===================================
+===================================
+Splash benchmark for url https://www.docker.com/ with Splash driver
+iteration :0 		2770.036 ms
+iteration :1 		4832.276 ms
+iteration :2 		5135.402 ms
+iteration :3 		4089.743 ms
+iteration :4 		5573.808 ms
+iteration :5 		5179.514 ms
+iteration :6 		3889.504 ms
+iteration :7 		4883.113 ms
+iteration :8 		4484.859 ms
+iteration :9 		5213.368 ms
+Total time take is 46051.623 ms
+Average time taken is 4605.162 ms
+===================================
+===================================
+Selenium benchmark for url https://www.docker.com/ with driver <selenium.webdriver.chrome.webdriver.WebDriver (session="27ee4d45e010786e437fd5b9b7520d45")>
+iteration :0 		3452.306 ms
+iteration :1 		775.973 ms
+iteration :2 		708.919 ms
+iteration :3 		1196.227 ms
+iteration :4 		861.316 ms
+iteration :5 		1208.990 ms
+iteration :6 		4921.160 ms
+iteration :7 		1028.981 ms
+iteration :8 		797.152 ms
+iteration :9 		1050.787 ms
+Total time take is 16001.811 ms
+Average time taken is 1600.181 ms
+===================================
+===================================
+Splash benchmark for url https://www.entrepreneur.com/ with Splash driver
+iteration :0 		3500.415 ms
+iteration :1 		22876.158 ms
+iteration :2 		3469.901 ms
+iteration :3 		2571.744 ms
+iteration :4 		3275.915 ms
+iteration :5 		3170.327 ms
+iteration :6 		3403.605 ms
+iteration :7 		2478.497 ms
+iteration :8 		3149.107 ms
+iteration :9 		2425.764 ms
+Total time take is 50321.433 ms
+Average time taken is 5032.143 ms
+===================================
+===================================
+Selenium benchmark for url https://www.entrepreneur.com/ with driver <selenium.webdriver.chrome.webdriver.WebDriver (session="6765e05ab4564cd779883c5df27f96bd")>
+iteration :0 		3612.936 ms
+iteration :1 		5591.536 ms
+iteration :2 		1910.919 ms
+iteration :3 		1517.301 ms
+iteration :4 		1658.504 ms
+iteration :5 		1450.395 ms
+iteration :6 		1589.397 ms
+iteration :7 		1565.237 ms
+iteration :8 		1465.412 ms
+iteration :9 		1572.107 ms
+Total time take is 21933.744 ms
+Average time taken is 2193.374 ms
+===================================
+===================================
+Splash benchmark for url https://medium.com/ with Splash driver
+iteration :0 		2628.982 ms
+iteration :1 		1633.345 ms
+iteration :2 		1990.663 ms
+iteration :3 		1792.537 ms
+iteration :4 		2916.541 ms
+iteration :5 		2184.523 ms
+iteration :6 		1825.969 ms
+iteration :7 		1615.548 ms
+iteration :8 		1629.639 ms
+iteration :9 		1662.681 ms
+Total time take is 19880.428 ms
+Average time taken is 1988.043 ms
+===================================
+===================================
+Selenium benchmark for url https://medium.com/ with driver <selenium.webdriver.chrome.webdriver.WebDriver (session="06fcb4dd0d74233561f24fcdcdedda22")>
+iteration :0 		4418.751 ms
+iteration :1 		1261.868 ms
+iteration :2 		1129.581 ms
+iteration :3 		1139.084 ms
+iteration :4 		1296.637 ms
+iteration :5 		1203.315 ms
+iteration :6 		1298.929 ms
+iteration :7 		1257.375 ms
+iteration :8 		1027.779 ms
+iteration :9 		1178.719 ms
+Total time take is 15212.038 ms
+Average time taken is 1521.204 ms
+===================================
+===================================
+Splash benchmark for url https://stripe.com/gb with Splash driver
+iteration :0 		5264.671 ms
+iteration :1 		5216.097 ms
+iteration :2 		4520.297 ms
+iteration :3 		5209.149 ms
+iteration :4 		4080.772 ms
+iteration :5 		4521.809 ms
+iteration :6 		4126.447 ms
+iteration :7 		2826.674 ms
+iteration :8 		4185.913 ms
+iteration :9 		4133.133 ms
+Total time take is 44084.962 ms
+Average time taken is 4408.496 ms
+===================================
+===================================
+Selenium benchmark for url https://stripe.com/gb with driver <selenium.webdriver.chrome.webdriver.WebDriver (session="af39a83b0cfbf860446451bcb9c95017")>
+iteration :0 		4665.208 ms
+iteration :1 		2450.499 ms
+iteration :2 		1833.849 ms
+iteration :3 		2002.109 ms
+iteration :4 		1897.108 ms
+iteration :5 		1733.593 ms
+iteration :6 		1967.310 ms
+iteration :7 		1800.413 ms
+iteration :8 		1669.780 ms
+iteration :9 		1564.906 ms
+Total time take is 21584.775 ms
+Average time taken is 2158.477 ms
+===================================
+===================================
+Splash benchmark for url https://www.djangoproject.com/ with Splash driver
+iteration :0 		3030.067 ms
+iteration :1 		50.096 ms
+iteration :2 		42.976 ms
+iteration :3 		40.464 ms
+iteration :4 		41.143 ms
+iteration :5 		41.147 ms
+iteration :6 		44.873 ms
+iteration :7 		41.149 ms
+iteration :8 		39.954 ms
+iteration :9 		39.173 ms
+Total time take is 3411.042 ms
+Average time taken is 341.104 ms
+===================================
+===================================
+Selenium benchmark for url https://www.djangoproject.com/ with driver <selenium.webdriver.chrome.webdriver.WebDriver (session="3fecf7377aa322f20f1513aca2a15a30")>
+iteration :0 		2252.795 ms
+iteration :1 		175.266 ms
+iteration :2 		73.658 ms
+iteration :3 		114.016 ms
+iteration :4 		174.139 ms
+iteration :5 		734.026 ms
+iteration :6 		133.099 ms
+iteration :7 		125.381 ms
+iteration :8 		104.748 ms
+iteration :9 		141.052 ms
+Total time take is 4028.180 ms
+Average time taken is 402.818 ms
+===================================
